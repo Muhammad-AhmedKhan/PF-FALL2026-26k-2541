@@ -26,4 +26,4 @@ git add .
 git commit -m "update"
 git push
 ```
-![Photo of Mountains](https://www.magnific.com/premium-photo/low-angle-view-trees-against-sky_104479449.htm#fromView=keyword&page=1&position=26&uuid=993604d6-8e81-4d42-81b6-6ac2131a2b57&track=ais_hybrid&query=Eerie+appalachian+mountains)
+![Photo of Mountains](https://i.pinimg.com/1200x/19/2a/11/192a11a3892030e09a683244b73af87e.jpg)
