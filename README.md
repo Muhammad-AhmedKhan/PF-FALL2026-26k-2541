@@ -5,5 +5,5 @@
 *one line of italic* 
 ***one line that is bold and italic**
 ~~This text is crossed out woaah~~
-> "Confusion is part of programming." ― Felienne Hermans <
+> "Confusion is part of programming." ― Felienne Hermans 
 
