@@ -7,7 +7,7 @@
 ~~This text is crossed out woaah~~
 > "Confusion is part of programming." ― Felienne Hermans 
 - Programming Fundamentals
-- Applied Physics
+- ICT
 - Calculus
 1. Startup
 2. Build functional AI agents
